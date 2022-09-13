@@ -6,8 +6,8 @@ body{margin:0;
 .last{font-size: 50px;}
 
 .discription{font-size:larger;
-             margin-left: 550px;
-             margin-right:550px;
+             margin: auto;
+             width: 50%;
              line-height: 2;
             padding-bottom: 50px;}
 
