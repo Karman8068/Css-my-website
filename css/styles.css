@@ -46,6 +46,21 @@ height: 100px;
 .mountain{
           padding-bottom:0px;}
 
+@media (max-width:500px) {
+  .mountain {
+    position: relative;
+    width: 100%;
+    padding-top: 120px;
+  }
+
+  .top {
+    position: relative;
+    height: 592px
+  }
+
+
+}
+
 .footer-link:hover{color:rgb(13, 143, 26)}
 .footer-link{color:rgb(6, 86, 118); margin: 10px 20px; font-size: larger; font-family: 'montserrat';}
 
